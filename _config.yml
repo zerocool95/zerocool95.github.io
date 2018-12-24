@@ -2,7 +2,7 @@
 title: Akash Basudevan
 email: akashbasudevan@gmail.com
 url: https://zerocool95.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Optimistically Nihilistic and Artificially Intelligent"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -14,16 +14,24 @@ footer: Your Website
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: https://twitter.com/SBootstrap
   - title: facebook
-    url:
+    url: https://www.facebook.com/zerocool95
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: https://stackoverflow.com/users/6237573/akash-basudevan
   - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+    url: https://github.com/zerocool95
+  - title: linkedin
+    url: https://www.linkedin.com/in/akash-basudevan/
+  - title: codechef
+    url: https://www.codechef.com/users/zerocool95
+  - title: codeforces
+    url: http://codeforces.com/profile/ZerocooL95
+  - title: hackerrank
+    url: https://www.hackerrank.com/zerocool95
+  - title: hackerearth
+    url: https://www.hackerearth.com/@akashbasudevan
+  - title: spoj
+    url: https://www.spoj.com/users/zerocool95/
 
 # Build settings
 markdown: kramdown
